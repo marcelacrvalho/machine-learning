@@ -1,1 +1,1 @@
-Previsão para o preço do Bitcoin
+Algoritmos para previsão do preço das criptomoedas
